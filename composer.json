@@ -1,6 +1,6 @@
 {
     "name": "shopware/swag-import-export",
-    "type": "shopware-backend-plugin",
+    "type": "shopware-plugin",
     "description": "Import and export tool for Shopware",
     "license": "MIT",
     "extra": {
